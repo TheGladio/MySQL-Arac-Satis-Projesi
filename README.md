@@ -10,23 +10,19 @@ Basit SQL sorguları.
 ===========
 
 <p align="center">
-  1
+  <img width="700" height="400" src="https://raw.githubusercontent.com/TheGladio/MySQL-Basit-Kodlar/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/Varl%C4%B1k%20%C4%B0li%C5%9Fki%20Diyagram%C4%B1%20G%C3%B6rsel.png">
 </p>
 
 <p align="center">
-  2
+  <img width="700" height="400" src="https://raw.githubusercontent.com/TheGladio/MySQL-Basit-Kodlar/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/Varl%C4%B1k%20%C4%B0li%C5%9Fki%20Diyagram%C4%B1.png">
 </p>
 
 <p align="center">
-  3
-</p>
-
-<p align="center">
-  4
+  <img width="700" height="800" src="https://raw.githubusercontent.com/TheGladio/MySQL-Basit-Kodlar/main/Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/SQL%20Sorgular%C4%B1.png">
 </p>
 
 Geliştirici ve Kaynaklar
 -------
-> Yasin Dinler
->	Umut GÜZEL
+> Yasin Dinler,
+>	Umut GÜZEL ve
 >	Muhammet Fatih GÜVEN
